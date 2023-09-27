@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **a clone of SLICE POS🍕 with FastAPI 🚀 | Vue + Bootstrap**
-- 🌱 I’m currently learning **GDScript 👾 and getting into game development as a fun hobby!**
+- 🌱 I’m currently learning **GDScript 👾 and game development as a fun hobby!**
 - 🤝 I’m looking for help with **Getting a new Python Developer job 😁**
 - 💬 Ask me about **Python and Vue.js**
 - 📫 Reach me @ **akberjag@gmail.com, [LinkedIn](https://www.linkedin.com/in/akberjag/) or [LeetCode](https://www.leetcode.com/akberjag)**

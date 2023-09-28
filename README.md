@@ -1,4 +1,5 @@
-<a href='https://akberjag.github.io/' target="_blank" rel="noreferrer" > <img align="right" alt="Coding" src="https://github.com/AkberJag/akberjag/blob/main/imgs/mario_code_banner.gif"/></a><br/><br/>
+<a href='https://akberjag.github.io/' target="_blank" > <img align="right" alt="Coding" src="https://github.com/AkberJag/akberjag/blob/main/imgs/mario_code_banner.gif"/></a>
+<br/><br/>
 
 <h1 align="center">Hi 👋, I'm Akber Jagannath</h1>
 <h3 align="center">Code. Test. Refactor. Repeat. 🐍</h3>

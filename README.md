@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akberjag&label=Profile%20views&color=0e75b6&style=flat" alt="akberjag" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **a clone of SLICE POS🍕 with FastAPI 🚀 | Vue + Bootstrap**
+- 🔭 I’m currently working on **a clone of SLICE POS🍕 with FastAPI 🚀 | Vue + Bootstrap** [Link](https://github.com/AkberJag/openPizza)
 - 🌱 I’m currently learning **GDScript 👾 and game development as a fun hobby!**
 - 🤝 I’m looking for help with **Getting a new Python Developer job 😁**
 - 💬 Ask me about **Python and Vue.js**

@@ -89,7 +89,7 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="https://www.godotengine.org/" target="_blank" rel="noreferrer" tooltip="Godot">  <img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" width="48" height="48"/></a>
+      <a href="https://www.godotengine.org/" target="_blank" rel="noreferrer" tooltip="Godot">  <img src="https://raw.githubusercontent.com/AkberJag/akberjag/main/imgs/icon_color.webp" alt="Godot" width="48" height="48"/></a>
       <br>Godot
     </td>
     <td align="center" width="96">
